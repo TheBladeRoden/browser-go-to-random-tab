@@ -5,7 +5,6 @@
 const tabFilter = {
   // Avoid switching to the current tab.
   active: false,
-  currentWindow: true
 };
 
 function goToRandomTab() {
