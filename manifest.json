@@ -3,7 +3,7 @@
   "name": "Go to random tab or window",
   "version": "2.0.0",
   "description": "A simple button to go to a random open tab.",
-  "homepage_url": "https://github.com/mikl/browser-go-to-random-tab",
+  "homepage_url": "https://github.com/thebladeroden/browser-go-to-random-tab",
   "icons": {
     "48": "icons/random-48.png",
     "96": "icons/random-96.png"
